@@ -21,9 +21,9 @@
 
 ![line graph](https://github.com/jkmom/PyBer_challenge/blob/main/analysis/PyBer_fare.png)
 
-### Summary
+## Summary
  
-## The recommendations to CEO
+### The recommendations to CEO
 
 * Rural and urban areas have their own advantages. In the busy city (urban), the destinations are probably closer to each other, so each ride fare is less. But the ride counts are high, means the demand is high. PyBer can recruit more drivers in the urban cities and maybe they will see the total fare will go up.
 * The rural area has less drives, but each drive could be longer distances. If there are any good visitor towns, they can try to promote those area and help the drivers to get more long-term or travel-type of drives to increase their fare per drive or the drive count.
