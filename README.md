@@ -2,7 +2,8 @@
 
 ## Overview of Project
 
-    The ride-sharing business, PyBer, would like to know how they are doing in each city type (Urban, Suburban and Rural). We are using Matplotlib to create all different kinds of chart to show the business. In this particular project, we are creating a line graph to show the total fare by each city type for each month.
+    The ride-sharing business, PyBer, would like to know how they are doing in each city type (Urban, Suburban and Rural). We are using Matplotlib to create all different kinds of chart to show the business. In this project, we are creating a line graph to show the total fare by each city type for each month.
+
 ### Results
 
   There are several major findings we can see from the analysis and graph:
